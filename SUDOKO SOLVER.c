@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdbool.h>
 #include <stdlib.h>
-#include <curses.h>
+#include <curses.h>      //Ce programme a ete fait par la bib curses.h , elle doit etre installe via le terminal avec le compiler cygwin ou mingw
 #include <unistd.h>
 
 #define N 9
